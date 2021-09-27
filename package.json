@@ -1,0 +1,13 @@
+{
+  "name": "diy-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "malanchristiansen <malanschristiansen@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.6",
+    "@babel/preset-react": "^7.14.5"
+  }
+}
