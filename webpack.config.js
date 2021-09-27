@@ -1,7 +1,7 @@
-const path = rewuire("path");
+const path = require("path");
 
 module.exports = {
-  entry: "../src/index.js",
+  entry: "./src/index.js",
   mode: "development",
   module: {
     rules: [
